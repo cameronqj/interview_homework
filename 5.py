@@ -19,12 +19,8 @@ args = parser.parse_args()
 
 #getjson defintion
 def getjson(url,type,args):
-	print (args)
-	print (type)
-
 	r = requests.get(url)
 	data = r.json()
-
 	for item in data:
 			#if item['device_id'] == '3':
 			if item[type] == args:
