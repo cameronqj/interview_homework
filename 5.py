@@ -5,7 +5,6 @@
 #author: cameron jones 
 
 #load modules
-
 import requests
 import json
 import argparse
