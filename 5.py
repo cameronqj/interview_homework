@@ -18,9 +18,7 @@ parser.add_argument('-d', '--device_id')
 args = parser.parse_args()
 
 
-#define getjson function to print ok/critical for device_id=3
-
-#getson defintion
+#getjson defintion
 def getjson(url,type,args):
 	print (args)
 	print (type)
