@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 #project: Cisco Interview Homework
 #name: 5.py
 #desc: Add two mutually exclusive arguments options, so the user can print what was done on steps 3 and 4, respectively, by passing each one to the script: a) -s which will take a number to use as session "id" b) -d  which will take a number to use as "device_id"

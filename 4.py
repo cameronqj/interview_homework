@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 #project: Cisco Interview Homework
 #name: 4.py
 #desc: Create a new function on top of script (3) to now print the same output, but for all sessions of "device_id" 3

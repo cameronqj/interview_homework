@@ -1,4 +1,3 @@
-#!/Library/Frameworks/Python.framework/Versions/3.8/bin/python3
 #project: Cisco Interview Homework
 #name: 3.py
 #desc: Modify script (2) to check the status field of session with "id" 107 and print its description and whether the session is OK or CRITICAL
